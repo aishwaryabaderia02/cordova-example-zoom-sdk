@@ -4,7 +4,7 @@ This application provides a simple example for using the ZoOm SDK Cordova plugin
 
 Preparing the Sample App
 ------------------------
-Before the app can be built correctly, all platform dependencies must be updated by running `cordova platform update android' and `cordova platform update ios' from the command line while in the project directory.
+Before the app can be built correctly, all platforms must be added by running `cordova platform add android` and `cordova platform add ios` from the command line while in the project directory.
 
 Installing the Plugin
 ---------------------
